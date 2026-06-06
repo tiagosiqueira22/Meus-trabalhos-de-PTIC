@@ -1,3 +1,6 @@
+
+# Tiago Silva Siqueira - 1°C1 EtecVav
+---
 ## Meus Trabalhos de PTIC
 
 Bem-vindo!
@@ -6,9 +9,9 @@ Este repositório reúne os documentos utilizados em atividades acadêmicas.
 
 ## Disponíveis
 
-📊 Apresentação (.pptx)
+- 📊 Apresentação (.pptx)
 
-📄 Pilares do Pensamento (.docx)
+- 📄 Pilares do Pensamento (.docx)
 
 ## Como acessar
 
@@ -18,4 +21,3 @@ Este repositório reúne os documentos utilizados em atividades acadêmicas.
 
 ---
 
-⭐ Se este material foi útil, considere favoritar o repositório.
